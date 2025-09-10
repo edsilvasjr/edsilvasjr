@@ -97,10 +97,6 @@ me.say_hi()
   
 ### ✨ "O único modo de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
 
-![Visitor Count](https://profile-counter.glitch.me/edsilvasjr/count.svg)
-
-*Obrigado pela visita!* 😊
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=footer"/>
