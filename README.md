@@ -16,7 +16,7 @@ python
 class EdsonJunior:
     def __init__(self):
         self.name = "Edson Junior"
-        self.age = 24
+        self.age = 25
         self.location = "Salvador, BA - Brasil"
         self.education = "Sistemas de Informação - UNIJORGE"
         self.interests = ["Tecnologia", "Programação", "Desenvolvimento Web"]
@@ -71,7 +71,7 @@ me.say_hi()
 
 </div>
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 - [ ] 🐍 Dominar Python e suas principais bibliotecas
 - [ ] 🌐 Aprender desenvolvimento web completo
