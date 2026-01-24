@@ -12,7 +12,7 @@
 
 <img align="right" height="200px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/749700665677824082/770298391784857600/Webp.net-gifmaker.gif"/>
 
-python
+```python
 class EdsonJunior:
     def __init__(self):
         self.name = "Edson Junior"
@@ -28,7 +28,7 @@ class EdsonJunior:
 
 me = EdsonJunior()
 me.say_hi()
-
+```
 
 - 🎓 *Estudante* de Sistemas de Informação na UNIJORGE
 - 💻 *Apaixonado* por tecnologia e inovação
